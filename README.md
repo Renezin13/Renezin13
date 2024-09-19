@@ -1,5 +1,5 @@
 
-💻​ Desenvolvedor Front-End<br>📚​ Técnico de informática pelo IFRN<br>✈️ Sempre em busca de novos conhecimentos<br>🏓 Atleta<br>
+💻​ Front-End Developer<br>📚​ IT student at IFRN<br>✈️ Always looking for new knowledge<br>🏓 Athlete<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rene_rufino7) 
 
