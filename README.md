@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats:
 <div style='display: flex; justify-content: center'>
-  ![](https://github-readme-stats.vercel.app/api?username=Renezin13&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Renezin13&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Renezin13&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Renezin13&theme=radical&hide_border=true)
 </div>
 
 <div style='display: flex; justify-content: center'>
